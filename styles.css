@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.ludo {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #516581;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #99c915;
+}
+
+p {
+  font-size: 2rem;
+  color: #c0cc15;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #7e1b1b;
+  text-align: end;
+  font-family: cursive;
+
+}
